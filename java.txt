@@ -22,3 +22,8 @@ According to Sun Microsystem, Java language is a simple programming language bec
 1.Java syntax is based on C++ (so easier for programmers to learn it after C++).
 2.Java has removed many complicated and rarely-used features, for example, explicit pointers, operator overloading, etc.
 3.There is no need to remove unreferenced objects because there is an Automatic Garbage Collection in Java.
+
+Object-oriented
+Java is an object-oriented programming language. 
+Everything in Java is an object. Object-oriented means we organize our software as a combination of 
+different types of objects that incorporate both data and behaviour.
