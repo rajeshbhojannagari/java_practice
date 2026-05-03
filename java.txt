@@ -30,3 +30,5 @@ different types of objects that incorporate both data and behaviour.
 
 Java is platform independent because it is different from other languages like 
 C, C++, etc. which are compiled into platform specific machines while
+Java is a write once, run anywhere language. 
+A platform is the hardware or software environment in which a program runs.
