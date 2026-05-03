@@ -32,3 +32,6 @@ Java is platform independent because it is different from other languages like
 C, C++, etc. which are compiled into platform specific machines while
 Java is a write once, run anywhere language. 
 A platform is the hardware or software environment in which a program runs.
+
+Secured
+Java is best known for its security. With Java, we can develop virus-free systems. Java is secured because:
