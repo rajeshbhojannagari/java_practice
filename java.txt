@@ -16,3 +16,5 @@ Application
 8. Games, etc.
 
 Features of Java
+Simple
+Java is very easy to learn, and its syntax is simple, clean and easy to
