@@ -16,3 +16,12 @@
 //         System.out.println(num);
 //     }
 // }
+
+class Hello{
+    public static void main(String args[]){
+        int num1=18;
+        int num2=45;
+        int result=num1+num2;
+        System.out.println(result);
+    }
+}
