@@ -14,3 +14,5 @@ Application
 6. Smart Card
 7. Robotics
 8. Games, etc.
+
+Features of Java
