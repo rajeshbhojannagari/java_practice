@@ -17,4 +17,5 @@ Application
 
 Features of Java
 Simple
-Java is very easy to learn, and its syntax is simple, clean and easy to
+Java is very easy to learn, and its syntax is simple, clean and easy to understand. 
+According to Sun Microsystem, Java language is a simple programming language because:
