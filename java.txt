@@ -49,3 +49,7 @@ which are not being used by a Java application anymore.
 Architecture-natural
 Java is architecture natural because there are no implementation dependent features, 
 for example, the size of primitive types is fixed.
+
+Portable
+Java is portable because it facilitates you to carry the Java bytecode to any platform. 
+It doesn't require any implementation.
