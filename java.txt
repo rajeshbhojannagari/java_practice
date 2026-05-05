@@ -53,3 +53,6 @@ for example, the size of primitive types is fixed.
 Portable
 Java is portable because it facilitates you to carry the Java bytecode to any platform. 
 It doesn't require any implementation.
+
+High-performance
+Java is faster than other traditional interpreted programming languages because Java bytecode is "close" to native code.
