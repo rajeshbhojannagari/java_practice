@@ -41,3 +41,7 @@ Java Programs run inside a virtual machine sandbox
 
 Robust
 The English mining of Robust is strong. Java is robust because:
+It uses strong memory management.
+There is a lack of pointers that avoids security problems.
+Java provides automatic garbage collection which runs on the Java Virtual Machine to get rid of objects 
+which are not being used by a Java application anymore.
