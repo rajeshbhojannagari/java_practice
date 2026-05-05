@@ -34,3 +34,7 @@
 //         System.out.println(result);
 //     }
 // }
+
+class Hello{
+    
+}
