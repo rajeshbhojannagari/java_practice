@@ -48,6 +48,6 @@ class Hello{
         Scanner reader=new Scanner(System.in);
         System.out.println("Enter a number: ");
         int number=reader.nextInt();
-        System.out.println(number);
+        System.out.println("You entered: "+number);
     }
 }
