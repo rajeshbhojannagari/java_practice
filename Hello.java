@@ -35,9 +35,9 @@
 //     }
 // }
 
-class Hello{
-    public static void main(String args[]){
-        String name="Rajesh";
-        System.out.println(name);
-    }
-}
+// class Hello{
+//     public static void main(String args[]){
+//         String name="Rajesh";
+//         System.out.println(name);
+//     }
+// }
