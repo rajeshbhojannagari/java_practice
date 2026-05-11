@@ -72,3 +72,4 @@ Achieved using access modifiers (private, public, etc.)
 
 Inheritance
 One class inherits properties of another
+Promotes code reuse
