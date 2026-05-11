@@ -79,3 +79,4 @@ One method behaves differently based on context
 Types: method overloading & overriding
 
 Abstraction
+Hiding implementation details
