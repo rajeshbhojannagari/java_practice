@@ -75,3 +75,4 @@ One class inherits properties of another
 Promotes code reuse
 
 Polymorphism
+One method behaves differently based on context
