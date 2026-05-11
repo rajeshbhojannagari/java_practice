@@ -71,3 +71,4 @@ Wrapping data (variables) and methods into a single unit
 Achieved using access modifiers (private, public, etc.)
 
 Inheritance
+One class inherits properties of another
