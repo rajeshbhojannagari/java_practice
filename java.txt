@@ -56,3 +56,6 @@ It doesn't require any implementation.
 
 High-performance
 Java is faster than other traditional interpreted programming languages because Java bytecode is "close" to native code.
+
+Java is a widely used, object-oriented programming language designed to be portable, 
+secure, and robust. If you're starting out or reviewing, here are the core Java concepts explained clearly:
