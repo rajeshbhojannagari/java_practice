@@ -61,3 +61,4 @@ Java is a widely used, object-oriented programming language designed to be porta
 secure, and robust. If you're starting out or reviewing, here are the core Java concepts explained clearly:
 
 1. Object-Oriented Programming (OOP)
+Java is built around OOP principles:
