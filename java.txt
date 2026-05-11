@@ -65,3 +65,5 @@ Java is built around OOP principles:
 Class & Object
 Class = blueprint (e.g., Car)
 Object = instance of a class (e.g., a specific car)
+
+Encapsulation
