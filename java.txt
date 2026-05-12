@@ -96,3 +96,5 @@ The single-line comment is used to add a comment on only one line and can be wri
 two forward slashes (//). 
 These comments are the most used commenting way.
 The single line comments are the most used commenting way to explain the purpose (or to add a text note) of the line.
+
+Syntax:
