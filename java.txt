@@ -92,3 +92,5 @@ Multiline comments
 Documentation comments
 
 1. Single Line Comment
+The single-line comment is used to add a comment on only one line and can be written by using the 
+two forward slashes (//). 
