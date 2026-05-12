@@ -135,3 +135,5 @@ Each variable in Java has a specific type, which determines the size and layout 
 the range of values that can be stored within that memory; and the set of operations that can be applied to the variable.
 
 Variable Declaration and Initialization
+You must declare all variables before they can be used. 
+Java variables are declared by specifying the data type followed by the variable name.
