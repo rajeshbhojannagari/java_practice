@@ -83,3 +83,4 @@ Hiding implementation details
 
 
 Java Comments
+Java comments are text notes written in the code to provide an explanation about the source code
