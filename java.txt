@@ -155,3 +155,4 @@ double pi = 3.14159; // declares and assigns a value of PI.
 char a = 'a';        // the char variable a iis initialized with value 'a'
 
 Java Variables Types
+The following are the three types of Java variables:
