@@ -128,3 +128,5 @@ Syntax:
 * line 2
 ...
 */
+
+What is a Java Variable?
