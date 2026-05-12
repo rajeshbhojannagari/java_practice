@@ -159,3 +159,5 @@ The following are the three types of Java variables:
 Local variables
 Instance variables
 Class/Static variables
+
+1. Java Local Variables
