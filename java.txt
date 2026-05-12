@@ -137,3 +137,5 @@ the range of values that can be stored within that memory; and the set of operat
 Variable Declaration and Initialization
 You must declare all variables before they can be used. 
 Java variables are declared by specifying the data type followed by the variable name.
+To assign a value, use the assignment (=) operator followed by the value. 
+Each declaration or initialization statement must end with a semicolon (;).
