@@ -90,3 +90,5 @@ In Java, there are three types of comments:
 Single-line comments
 Multiline comments
 Documentation comments
+
+1. Single Line Comment
