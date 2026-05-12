@@ -101,3 +101,6 @@ Syntax:
 // comment
 
 2. Multiline Comment
+The multiline (or, multiple-line) comments start with a forward slash followed by 
+an asterisk (/*) and end with an asterisk followed by a forward slash (*/) and 
+they are used to add comment on multiple lines.
