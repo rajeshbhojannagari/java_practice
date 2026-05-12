@@ -117,3 +117,5 @@ Comment (line 2)
 
 3. Documentation Comment
 The documentation comments are used for writing the documentation of the source code
+The documentation comments start with a forward slash followed by the two asterisks (/**), 
+end with an asterisk followed by a backward slash (*/),
