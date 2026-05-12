@@ -161,3 +161,4 @@ Instance variables
 Class/Static variables
 
 1. Java Local Variables
+Local variables are declared in methods, constructors, or blocks.
