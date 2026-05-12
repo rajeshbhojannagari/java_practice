@@ -109,3 +109,8 @@ The multiline comments are very useful when we want to put a long comment spread
 multiple lines or to comment out the complete code.
 
 Syntax:
+/*
+Comment (line 1)
+Comment (line 2)
+...
+*/
