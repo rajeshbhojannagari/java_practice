@@ -142,3 +142,5 @@ Each declaration or initialization statement must end with a semicolon (;).
 
 Syntax:
 data type variable [ = value][, variable [ = value] ...] ;
+
+Here data type is one of Java's data types and variable is the name of the variable
