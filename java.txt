@@ -86,3 +86,4 @@ Java Comments
 Java comments are text notes written in the code to provide an explanation about the source code
 The comments can be used to explain the logic or for documentation purposes
 The compiler does not compile the comments. In Java, comments are very similar to C and C++.
+In Java, there are three types of comments:
