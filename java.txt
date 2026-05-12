@@ -141,3 +141,4 @@ To assign a value, use the assignment (=) operator followed by the value.
 Each declaration or initialization statement must end with a semicolon (;).
 
 Syntax:
+data type variable [ = value][, variable [ = value] ...] ;
