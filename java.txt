@@ -99,3 +99,5 @@ The single line comments are the most used commenting way to explain the purpose
 
 Syntax:
 // comment
+
+2. Multiline Comment
