@@ -166,3 +166,4 @@ Local variables are created when the method, constructor or block is entered and
 will be destroyed once it exits the method, constructor, or block.
 Access modifiers cannot be used for local variables.
 Local variables are visible only within the declared method, constructor, or block.
+Local variables are implemented at stack level internally.
