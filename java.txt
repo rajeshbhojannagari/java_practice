@@ -156,3 +156,6 @@ char a = 'a';        // the char variable a iis initialized with value 'a'
 
 Java Variables Types
 The following are the three types of Java variables:
+Local variables
+Instance variables
+Class/Static variables
