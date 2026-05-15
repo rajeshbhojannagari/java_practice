@@ -66,3 +66,5 @@
 //         System.out.println("Second number = " + second);
 //     }
 // }
+
+import java.util.Scanner;
