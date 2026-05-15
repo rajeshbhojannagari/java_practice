@@ -61,3 +61,8 @@ class Hello{
         float temporary = first;
         first = second;
         second = temporary;
+        System.out.println("--After swap--");
+        System.out.println("First number = " + first);
+        System.out.println("Second number = " + second);
+    }
+}
