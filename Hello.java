@@ -53,4 +53,5 @@
 // }
 
 class Hello{
-    
+    public static void main(String[] args){
+        float first = 1.20f,second = 2.45f;
